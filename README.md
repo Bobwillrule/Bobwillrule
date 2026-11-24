@@ -2,10 +2,12 @@
 
 # Hi, I’m Hugo Chen 👋
 
-**Electrical Engineering @ UBC · Computer Science Minor**
+**Electrical Engineering Major · Computer Science Minor @ UBC **
 
 I build software that makes complex data easier to work with, from semiconductor equipment logs to the holdings inside nested ETFs.
+
 `Applied AI` · `Full-stack development` · `Financial data`
+
 </div>
 
 ---
