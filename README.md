@@ -23,8 +23,8 @@ I build software that makes complex data easier to work with, from semiconductor
 | 💰 **[Financial Tracker](https://github.com/Bobwillrule/Financial-Tracker)** | Tracks income, expenses, and account balances in a desktop app, with JUnit tests for the core financial logic. | Java · Swing · JUnit |
 | 📐 **[Unit Calculator V2](https://github.com/Bobwillrule/UnitCalculatorV2)** | An Android calculator that handles mixed metric and imperial units in the same expression, like `5 m + 12 in`. | Kotlin · Android |
 | 🐀 **[Sewerage Search](https://github.com/TeaTishi/MMHacks2025)** | A 2D platformer my team built in 24 hours at SFU Mountain Madness. Descend into the sewers, dodge increasingly large rats, and try to find the cat. | Python · Pygame |
-| 📂 **fileSearcher** · *In development* | A Windows desktop tool with integrated AI for searching and organizing local files. | C++ · Windows |
-| 🌐 **[Personal Website](https://bobwillrule.github.io/Personal-Website/)** · [Source](https://github.com/Bobwillrule/Personal-Website) | My portfolio created using React, CSS, and HTML. Hosted on Vercel | React · Vite · GitHub Pages |
+| 📂 **[fileSearcher](https://github.com/Bobwillrule/fileSearcher)** · *In development* | A Windows desktop tool with integrated AI for searching and organizing local files. | C++ · Windows |
+| 🌐 **[Personal Website](https://bobwillrule.github.io/Personal-Website/)** |  My portfolio created using React, CSS, and HTML. Hosted on Vercel | React · Vite · GitHub Pages |
 
 
 ## 🛠️ Technical skills
