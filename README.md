@@ -6,7 +6,9 @@
 
 I build software that makes complex data easier to work with, from semiconductor equipment logs to the holdings inside nested ETFs.
 
-`Applied AI` · `Full-stack development` · `Financial data`
+`Applied AI` · `Full-stack development` · `Electrical Engineer`
+
+🌐 **[Personal Website](https://bobwillrule.github.io/Personal-Website/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/hugochen07/)**
 
 </div>
 
@@ -21,7 +23,8 @@ I build software that makes complex data easier to work with, from semiconductor
 | 💰 **[Financial Tracker](https://github.com/Bobwillrule/Financial-Tracker)** | Tracks income, expenses, and account balances in a desktop app, with JUnit tests for the core financial logic. | Java · Swing · JUnit |
 | 📐 **[Unit Calculator V2](https://github.com/Bobwillrule/UnitCalculatorV2)** | An Android calculator that handles mixed metric and imperial units in the same expression, like `5 m + 12 in`. | Kotlin · Android |
 | 🐀 **[Sewerage Search](https://github.com/TeaTishi/MMHacks2025)** | A 2D platformer my team built in 24 hours at SFU Mountain Madness. Descend into the sewers, dodge increasingly large rats, and try to find the cat. | Python · Pygame |
-| 📂 **fileSearcher** · *In development* | A Windows desktop tool for searching local files. I’m exploring semantic search for when you remember what a file was about but can’t remember its name. | C++ · Windows |
+| 📂 **fileSearcher** · *In development* | A Windows desktop tool with integrated AI for searching and organizing local files. | C++ · Windows |
+| 🌐 **[Personal Website](https://bobwillrule.github.io/Personal-Website/)** · [Source](https://github.com/Bobwillrule/Personal-Website) | My portfolio, with an illustrated Vancouver intro, a project gallery, and a timeline of my work experience. | React · Vite · GitHub Pages |
 
 ## 🏭 What I worked on at TSMC
 
