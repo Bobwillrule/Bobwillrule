@@ -26,9 +26,6 @@ I build software that makes complex data easier to work with, from semiconductor
 | 📂 **fileSearcher** · *In development* | A Windows desktop tool with integrated AI for searching and organizing local files. | C++ · Windows |
 | 🌐 **[Personal Website](https://bobwillrule.github.io/Personal-Website/)** · [Source](https://github.com/Bobwillrule/Personal-Website) | My portfolio, with an illustrated Vancouver intro, a project gallery, and a timeline of my work experience. | React · Vite · GitHub Pages |
 
-## 🏭 What I worked on at TSMC
-
-As a software engineering intern, I helped build an AI assistant that connects semiconductor equipment failures to relevant code so engineers can investigate issues faster. I also built a React and FastAPI platform that cut end-to-end agent execution time by **40%**.
 
 ## 🛠️ Technical skills
 
