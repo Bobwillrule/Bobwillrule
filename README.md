@@ -8,7 +8,7 @@ I'm an Electrical Engineering student at UBC with a minor in Computer Science, p
 
 `Applied AI` · `Full-stack development` · `Electrical Engineer`
 
-🌐 **[Personal Website](https://bobwillrule.github.io/Personal-Website/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/hugochen07/)**
+🌐 **[Personal Website](https://hugochen.vercel.app/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/hugochen07/)**
 
 </div>
 
@@ -24,7 +24,7 @@ I'm an Electrical Engineering student at UBC with a minor in Computer Science, p
 | 📐 **[Unit Calculator V2](https://github.com/Bobwillrule/UnitCalculatorV2)** | An Android calculator that handles mixed metric and imperial units in the same expression, like `5 m + 12 in`. | Kotlin · Android |
 | 🐀 **[Sewerage Search](https://github.com/TeaTishi/MMHacks2025)** | A 2D platformer my team built in 24 hours at SFU Mountain Madness. Descend into the sewers, dodge increasingly large rats, and try to find the cat. | Python · Pygame |
 | 📂 **[fileSearcher](https://github.com/Bobwillrule/fileSearcher)** · *In development* | A Windows desktop tool with integrated AI for searching and organizing local files. | C++ · Windows |
-| 🌐 **[Personal Website](https://bobwillrule.github.io/Personal-Website/)** |  My portfolio created using React, CSS, and HTML. Hosted on Vercel | React · Vite · GitHub Pages |
+| 🌐 **[Personal Website](https://hugochen.vercel.app/)** |  My portfolio created using React, CSS, and HTML. Hosted on Vercel | React · Vite · GitHub Pages |
 
 
 ## 🛠️ Technical skills
