@@ -30,10 +30,13 @@ I build software that makes complex data easier to work with, from semiconductor
 ## 🛠️ Technical skills
 
 **Languages**  
-Python, Java, TypeScript, JavaScript, SQL, C/C++, Kotlin, HTML/CSS, MATLAB, Assembly
+Python, Java, TypeScript, JavaScript, SQL, C/C++, Kotlin, HTML/CSS, MATLAB, RISC-V Assembly, SystemVerilog
 
 **Frameworks/Libraries**  
-React, Pandas, NumPy, Scikit-learn, PyTorch, FastAPI
+React, Next.js, Pandas, NumPy, Scikit-learn, PyTorch, FastAPI, JUnit
+
+**Databases**  
+PostgreSQL, MongoDB
 
 **Tools/Platforms**  
 OpenAI Codex, Opencode, Docker, Kubernetes, Azure DevOps, Git, WordPress, AutoCAD
